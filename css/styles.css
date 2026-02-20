@@ -37,8 +37,8 @@ p {
 .paragraph-one {
     position: relative;
     top: 30px;
+    font-family: var(--fontFamily) !important;
 }
-
 .paragraph-one-img {
     position: relative;
     float: right;
