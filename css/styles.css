@@ -36,8 +36,10 @@ p {
 
 .paragraph-one {
     position: relative;
-    margin-top: -80px;
+    margin-top: 0px;
     font-family: var(--fontFamily) !important;
+    padding: 40px 0;
+    background-color: white;
 }
 
 .paragraph-one-img {
