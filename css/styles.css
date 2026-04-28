@@ -205,3 +205,14 @@ p {
     border-top: 1px solid rgba(255, 255, 255, 0.4);
     font-size: 13px;
 }
+
+.footer-column:nth-child(3) a,
+.footer-column:nth-child(4) a {
+    color: #1a73e8;
+    text-decoration: underline;
+}
+
+.footer-column:nth-child(3) a:hover,
+.footer-column:nth-child(4) a:hover {
+    color: #0c5ed7;
+}
