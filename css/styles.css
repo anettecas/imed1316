@@ -314,3 +314,26 @@ footer .copyright p {
 .footer a {
     color: white;
 }
+
+/* Footer section */
+.footer {
+    background-color: #b45593;
+    color: white;
+}
+
+/* ALL footer text */
+.footer p,
+.footer h2,
+.footer h3,
+.footer h4,
+.footer a,
+.footer li,
+.footer span {
+    color: white !important;
+}
+
+/* Copyright line */
+.footer-bottom,
+.footer-bottom p {
+    color: white !important;
+}
