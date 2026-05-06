@@ -232,3 +232,57 @@ p {
     background-color: #e055a1;
     transform: scale(1.05);
 }
+
+/* Fix WAVE contrast errors */
+
+/* Main page text */
+body {
+    color: #222;
+}
+
+/* Paragraphs and headings on light backgrounds */
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #222;
+}
+
+/* Pink buttons */
+.btn,
+button,
+.join-now,
+a.button {
+    background-color: #c2185b;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+/* Make links easier to see */
+a {
+    color: #005fcc;
+    font-weight: bold;
+}
+
+/* If text is on the blue/dark section */
+.blue-section,
+.dark-section,
+.card,
+.info-box {
+    color: #ffffff;
+}
+
+/* Text inside dark/blue boxes */
+.blue-section p,
+.blue-section h2,
+.dark-section p,
+.dark-section h2,
+.card p,
+.card h2,
+.info-box p,
+.info-box h2 {
+    color: #ffffff;
+}
