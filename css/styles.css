@@ -286,3 +286,16 @@ a {
 .info-box h2 {
     color: #ffffff;
 }
+
+/* Fix all light text */
+p {
+    color: #444;
+}
+
+span {
+    color: #333;
+}
+
+small {
+    color: #333;
+}
