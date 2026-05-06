@@ -286,3 +286,16 @@ a {
 .info-box h2 {
     color: #ffffff;
 }
+
+/* Testimonial section fix */
+blockquote {
+    color: #333333;
+    font-weight: 500;
+    line-height: 1.7;
+}
+
+blockquote cite {
+    color: #222222;
+    font-style: normal;
+    font-weight: bold;
+}
