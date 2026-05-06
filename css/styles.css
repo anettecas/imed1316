@@ -286,3 +286,21 @@ a {
 .info-box h2 {
     color: #ffffff;
 }
+
+
+/* Footer text color fix */
+footer,
+footer p,
+footer h2,
+footer h3,
+footer a,
+footer li,
+footer span {
+    color: white;
+}
+
+/* Copyright text */
+footer .copyright,
+footer .copyright p {
+    color: white;
+}
